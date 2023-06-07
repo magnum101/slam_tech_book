@@ -1,2 +1,2 @@
 # slam_tech_book
- This book is a free and open-source textbook aimed at helping readers understand the theory and applications of SLAM technology. 
+SLAM technology is a very important technique that can be applied in robotics navigation, autonomous driving, augmented reality and other fields. This book is a free and open-source textbook aimed at helping readers understand the theory and applications of SLAM technology. The book covers the main technical principles of industrial laser SLAM and visual SLAM, and provides some practical knowledge. If you are interested in this knowledge, this book can help you better understand SLAM technology and apply it more effectively in practice.
